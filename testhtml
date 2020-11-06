@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>China</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+  </head>
+
+  <body>
+    <div id="wrapper">
+
+      <header>
+        <h1>China</h1>
+      </header>
+
+    <figure>
+      <img src="ch-flag.jpg" alt="National Flag of China" class="center">
+    </figure>
+
+      <nav>
+        <ul>
+          <li><a href="#introduction">Introduction</a></li>
+          <li><a href="#geography">Geography</a></li>
+          <li><a href="#economy">Economy</a></li>
+          <li><a href="#communication">Communication</a></li>
+        </ul>
+      </nav>
+
+  <main>
+    <section>
+      <h2 id="introduction">Introduction</h2>
+        <p>The People's Republic of China, referred to as "China", was established on October 1, 1949. It is a socialist country under the people’s democratic dictatorship led by the working class and based on the alliance of workers and peasants. It uses the five-star red flag as the national flag and "The March of Volunteers" as the national anthem. The national emblem includes the national flag, Tiananmen Square, gears, and wheat and rice. Putonghua and standardized Chinese characters, the capital of Beijing, is a unified multi-ethnic country with the Han as the main ethinc group and 56 ethnic groups.</p>
+        <p>China is one of the countries with the longest history in the world, it has glorious cultures and unique traditions. After the establish of New China in 1949, it entered a period of socialist revolution and construction. In 1956, the transition to socialism was realized. After that, socialist construction developed tortuously in exploration. </p>
+    </section>
+
+
+    <section>
+      <h2 id="geography">Geography</h2>
+
+      <h3>Location</h3>
+
+        <p>China is located in eastern Asia, on the west coast of the Pacific Ocean. From the heart of Heilongjiang River near Mohe in the north, to Zengmu Ansha in the Nansha Islands in the south. The land area is 9.6 million square kilometers, and the land boundary is 22,457 kilometers.</p>
+        <p>The territorial sea is composed of the Bohai Sea (inland sea), the Yellow Sea, the East China Sea, and the South China Sea. The eastern and southern continental coastline is 14,500 kilometers.</p>
+
+  <figure>
+    <img src="ch-map.jpg" alt="Region" class="center">
+    <figcaption>China (Source: CIA World Factbook)</figcaption>
+  </figure>
+
+      <h3>Land Boundaries</h3>
+
+      <h4>Border Countries</h4>
+        <table>
+          <tr><td><h4>Country</h4></td><td><h4>Distance(km)</h4></td></tr>
+          <tr><td>Afghanistan</td><td>91</tr>
+          <tr><td>Bhutan</td><td>477</tr>
+          <tr><td>Myanmar</td><td>2129</tr>
+          <tr><td>Kazakhstan</td><td>1765</tr>
+          <tr><td>North Korea</td><td>1352</tr>
+          <tr><td>Kyrgyzstan</td><td>1063</tr>
+          <tr><td>Laos</td><td>475</tr>
+          <tr><td>Mongolia</td><td>4630</tr>
+          <tr><td>Nepal</td><td>1389</tr>
+          <tr><td>India</td><td>2659</tr>
+          <tr><td>Pakistan</td><td>438</tr>
+          <tr><td>Russia(Northeastern)</td><td>4133</tr>
+          <tr><td>Russia(Northwestern)</td><td>46</tr>
+          <tr><td>Tajikistan</td><td>477</tr>
+          <tr><td>Vietnam</td><td>1297</tr>
+          <tr><td><h4>Total</h4></td><td><h4>22421</h4></tr>
+        </table>
+
+      <h3>Environment:Current Issues</h3>
+
+    <ul>
+      <li>Air pollution</li>
+      <li>Acid rain</li>
+      <li>Water scarcity</li>
+      <li>Water pollution</li>
+      <li>Desertification</li>
+      <li>Habitat destruction</li>
+      <li>Coastal destruction</li>
+      <li>Soil erosion</li>
+      <li>Landslides</li>
+      <li>Trade in endangered species</li>
+    </ul>
+    </section>
+
+    <section>
+      <h2 id="economy">Economy</h2>
+
+      <h3>Overview</h3>
+
+        <p>China is the world's second largest economy, the world's largest industrial country, and continues to be the largest contributor to world economic growth.China is also the world's largest agricultural country.</p>
+
+      <h3>GDP (PPP)</h3>
+
+        <table>
+          <tr><td><h4>$(Dollar)</h4></td><td><h4>Year</h4></tr>
+          <tr><td>$ 18,200</td><td>（2018)</tr>
+          <tr><td>$ 16,700</td><td>（2017)</tr>
+          <tr><td>$ 15,700</td><td>（2016)</tr>
+        </table>
+
+      <h3>GDP (by sector)</h3>
+        <table>
+          <tr><td><h4>Sector</h4></td><td><h4>Pct.</h4></tr>
+          <tr><td>Agriculture</td><td>7.9%</tr>
+          <tr><td>Industry</td><td>0.5%</tr>
+          <tr><td>Services</td><td>51.6%</tr>
+        </table>
+    </section>
+
+
+    <section>
+      <h2 id="communication">Communications</h2>
+
+      <h3>Internet Country Code</h3>
+
+        <p>China's country code is .cn
+        <br>The country's official web site can be found at:<a href="http://www.gov.cn/english/">www.GOV.cn</a></p>
+
+      <h3>Internet Users</h3>
+
+        <p>According to data, 54.3 percent of the Chinese population(751,886,119) has access to the internet by July.2018.</p>
+
+      <h3>Broadband</h3>
+
+        <p>407.382 million Chinese have subcription to broadband Internet, which means in 100 people there are 29 of them are subscribers.</p>
+
+    </section>
+
+    <footer>
+      <p><small>Source:<a href="https://www.cia.gov/index.html">CIA World Factbook</a></small></p>
+      <p>Return to <a href="#top">top</a></p>
+    </footer>
+    </main>
+    </div>
+  </body>
+</html>
